@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👯 I’m looking to collaborate on [LinkedIn](https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card)
+
 - Have a look at my [https://vaishnavidhobale.github.io/](https://vaishnavidhobale.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Chakra-UI, Node, MongoDB**
