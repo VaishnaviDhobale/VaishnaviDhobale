@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavidhobale" alt="vaishnavidhobale" /></a> </p>
 
-<div display = "flex">
-  <div>
     - 🔭 I’m currently working on **Frontend & Backend**
 
     - 🌱 I’m currently learning **MERN Stack**
@@ -25,11 +23,8 @@
     - 📫 How to reach me **vaishnavidhobale5@gmail.com**
 
     - 📄 Download my  <a href = "https://drive.google.com/file/d/1bGRWaANxSPSwgR0h8PrUOiZwyeI4eWC_/view?usp=sharing">Resume</a>
-  </div>
-  <div>
+ 
     <img src = "https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  </div>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
