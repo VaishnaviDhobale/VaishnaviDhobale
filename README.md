@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- Have a look at my [https://ornate-unicorn-9808c9.netlify.app/](https://ornate-unicorn-9808c9.netlify.app/)
+- Have a look at my [https://vaishnavidhobale.github.io/](https://vaishnavidhobale.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Chakra-UI, Node, MongoDB**
 
