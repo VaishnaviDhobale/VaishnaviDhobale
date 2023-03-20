@@ -3,7 +3,7 @@ I'm currently learning MERN Stack <br><br>Ask me about HTML, CSS, JavaScript, Mo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=200px)](https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card) 
 
 <a href = "https://vaishnavidhobale.github.io/"> <img src = "https://cdn-icons-png.flaticon.com/512/252/252336.png" width = "40px" /></a>
 
