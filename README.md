@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Dhobale</h1>
-<h3 align="center">I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications. I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+<ul>
+  <li> I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.</li>
+  <li> I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms. I am also an open-source enthusiast.</li>
+  <li>I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavidhobale&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavidhobale" /> </p>
 
@@ -9,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card**
+- 👯 I’m looking to collaborate on <a href = "https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card">LinkedIn</a> & <a href = "https://github.com/VaishnaviDhobale">Github</a>
 
 - Have a look at my <a href = "https://vaishnavidhobale.github.io/">Portfolio</a>
 
@@ -17,7 +21,7 @@
 
 - 📫 How to reach me **vaishnavidhobale5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bGRWaANxSPSwgR0h8PrUOiZwyeI4eWC_/view?usp=sharing](https://drive.google.com/file/d/1bGRWaANxSPSwgR0h8PrUOiZwyeI4eWC_/view?usp=sharing)
+- 📄 Download my  <a href = "https://drive.google.com/file/d/1bGRWaANxSPSwgR0h8PrUOiZwyeI4eWC_/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
