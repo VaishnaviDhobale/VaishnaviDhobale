@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ornate-unicorn-9808c9.netlify.app/](https://ornate-unicorn-9808c9.netlify.app/)
+- Have a look at my [https://ornate-unicorn-9808c9.netlify.app/](https://ornate-unicorn-9808c9.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Chakra-UI, Node, MongoDB**
 
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavidhobale&show_icons=true&locale=en&layout=compact" alt="vaishnavidhobale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavidhobale&show_icons=true&locale=en" alt="vaishnavidhobale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavidhobale&" alt="vaishnavidhobale" /></p>
