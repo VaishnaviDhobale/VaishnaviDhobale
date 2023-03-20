@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card**
 
-- Have a look at my [Portfolio](https://vaishnavidhobale.github.io/)
+- Have a look at my <a href = "https://vaishnavidhobale.github.io/">Portfolio</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Chakra-UI, Node, MongoDB**
 
