@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Dhobale</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications. I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavidhobale&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavidhobale" /> </p>
 
