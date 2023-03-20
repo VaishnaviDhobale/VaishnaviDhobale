@@ -14,7 +14,7 @@
 
     - 🌱 I’m currently learning **MERN Stack**
 
-    - 👯 I’m looking to collaborate on <a href = "https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card" target="_blank" rel="noreferrer">LinkedIn</a> & <a target="_blank" rel="noreferrer" href = "https://github.com/VaishnaviDhobale">Github</a>
+    - 👯 I’m looking to collaborate on <a href = "https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card" target="_blank">LinkedIn</a> & <a target="_blank" rel="noreferrer" href = "https://github.com/VaishnaviDhobale">Github</a>
 
     - Have a look at my <a href = "https://vaishnavidhobale.github.io/" target="_blank" rel="noreferrer">Portfolio</a>
 
