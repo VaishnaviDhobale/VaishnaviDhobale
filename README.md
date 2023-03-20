@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning MARN Stack<br>Ask me about HTML, CSS, JavaScript, MongoDB, TypeScript,<br>React, Chakra-UI, Axios, Redux.
+I'm currently learning MERN Stack <br><br>Ask me about HTML, CSS, JavaScript, MongoDB, TypeScript,<br>React, Chakra-UI, Axios, Redux.
 
 
 ## 🌐 Socials:
