@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavidhobale" alt="vaishnavidhobale" /></a> </p>
 
-<div>
+<div display = "flex">
   <div>
     - 🔭 I’m currently working on **Frontend & Backend**
 
