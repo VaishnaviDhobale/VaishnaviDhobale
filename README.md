@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card)
+- 👯 I’m looking to collaborate on **https://in.linkedin.com/in/vaishnavi-dhobale-89243022b?trk=people-guest_people_search-card**
 
 - Have a look at my [https://vaishnavidhobale.github.io/](https://vaishnavidhobale.github.io/)
 
@@ -21,8 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vaishnavidhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaishnavidhobale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaishnavi dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi dhobale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
