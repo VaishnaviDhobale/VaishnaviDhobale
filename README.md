@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavidhobale&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavidhobale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavidhobale" alt="vaishnavidhobale" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavidhobale" alt="vaishnavidhobale" /></a> </p>
 
   - 🔭 I’m currently working on **Frontend & Backend**
 
