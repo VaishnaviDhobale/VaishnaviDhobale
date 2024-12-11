@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vaishnavidhobale5@gmail.com**
 
-- 📄 Download my <a href = "https://drive.google.com/file/d/1bGRWaANxSPSwgR0h8PrUOiZwyeI4eWC_/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+- 📄 Download my <a href = "https://drive.google.com/file/d/1QhvY5gMTdqGhlTsd5H-6pA2Dws_AuOmH/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
