@@ -12,7 +12,7 @@
 
 - Have a look at my <a href = "https://vaishnavidhobale.github.io/" target="_blank" rel="noreferrer">Portfolio</a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Chakra-UI, Node, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Bootstrap, Node.Js, MongoDB, Express.Js, PHP, C++, Chakra-UI, Tailwind, Github, Netlify, Vercel, Vscode**
 
 - 📫 How to reach me **vaishnavidhobale5@gmail.com**
 
